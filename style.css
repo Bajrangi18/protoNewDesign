@@ -9,6 +9,7 @@ background-color: #ff6666;
 }
 #logs {
   position: absolute;
-  top: 45vh;
+  top: 20vh;
   right: 40vw;
+  transition: top 2s;
 }
