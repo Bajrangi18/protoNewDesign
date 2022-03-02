@@ -1,0 +1,14 @@
+body {
+background-color: #ff6666;
+}
+
+#btn {
+  position: absolute;
+  top: 30vh;
+  right: 40vw;
+}
+#logs {
+  position: absolute;
+  top: 45vh;
+  right: 40vw;
+}
